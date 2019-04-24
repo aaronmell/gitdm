@@ -259,8 +259,7 @@ Aaron Lu*: aaron.lu!intel.com
 Aaron Ma: aaron.ma!canonical.com
 	Canonical
 Aaron Mell: aaronamell!gmail.com
-	Lumina Digital
-	Alkami Technology until 2018-02-01
+	Lumin Digital
 Aaron Mills: aaron.mills!returnpath.com
 	Return Path
 Aaron Pace: aaron.pace!alcatel-lucent.com
